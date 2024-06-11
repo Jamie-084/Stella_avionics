@@ -1,0 +1,27 @@
+Location	Temperature	Status
+	A		51.13		Warning
+	B		53.02		Warning
+	C		52.50		Warning
+	D		58.44		Warning
+	E		61.73		On Fire
+	F		46.85		Warning
+	G		49.37		Warning
+	H		47.97		Warning
+	I		53.69		Warning
+	J		59.32		Warning
+	K		40.95		Warning
+	L		46.88		Warning
+	M		42.28		Warning
+	N		47.73		Warning
+	O		56.63		Warning
+	P		38.98		Warning
+	Q		40.92		Warning
+	R		38.45		Warning
+	S		42.28		Warning
+	T		50.41		Warning
+	U		38.16		Warning
+	V		35.85		Warning
+	W		34.84		Warning
+	X		36.06		Warning
+	Y		44.43		Warning
+
